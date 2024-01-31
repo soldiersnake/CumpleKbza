@@ -1,3 +1,3 @@
-# cumple_Topo
+# cumple_KBZA
 invitacion de cumpleaños
-link: https://topocumple.netlify.app/
+link: https://cumple-kbza.netlify.app/
